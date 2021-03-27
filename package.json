@@ -1,0 +1,24 @@
+{
+  "name": "@daanvanberkel/sqlite-migrations",
+  "version": "1.0.1",
+  "description": "Sqlite Migrations for NodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/daanvanberkel/sqlite-migrations.git"
+  },
+  "keywords": [
+    "Sqlite",
+    "Migrations",
+    "NodeJS"
+  ],
+  "author": "Daan van Berkel <info@daanvanberkel.nl>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/daanvanberkel/sqlite-migrations/issues"
+  },
+  "homepage": "https://github.com/daanvanberkel/sqlite-migrations#readme"
+}
